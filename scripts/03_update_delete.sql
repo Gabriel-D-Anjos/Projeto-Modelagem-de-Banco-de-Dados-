@@ -18,7 +18,7 @@ SET valor = 60.00
 WHERE id_servico = 3;
 
 -- ===============================
--- DELETEs
+-- DELETES
 -- ===============================
 
 -- 1. Excluir um horário disponível (exemplo)
