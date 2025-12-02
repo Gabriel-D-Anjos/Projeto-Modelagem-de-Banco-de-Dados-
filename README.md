@@ -41,6 +41,3 @@ O modelo apresenta relacionamentos essenciais como:
 O sistema de relacionamentos e cardinalidades é relativamente complexo, e sua construção representou um desafio interessante, porém muito útil para compreender melhor integração e coerência entre tabelas.
 
 ---
-
-## 🗂️ 3. Estrutura do Repositório
-
