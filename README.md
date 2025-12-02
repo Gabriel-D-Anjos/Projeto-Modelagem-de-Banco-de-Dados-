@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Barbearia – Projeto SQL (Mini-Mundo)
 
-Este projeto tem como objetivo implementar e manipular dados em um banco de dados relacional utilizando comandos SQL (DML), aplicando conceitos de modelagem lógica, tipos de dados e práticas de versionamento. O trabalho integra a criação do modelo lógico (DER) com o desenvolvimento de scripts SQL reais, simulando a gestão de uma barbearia.
+Este projeto tem como objetivo implementar e manipular dados em um banco de dados relacional utilizando comandos SQL, aplicando conceitos de modelagem lógica, tipos de dados e práticas de versionamento. O trabalho integra a criação do modelo lógico (DER) com o desenvolvimento de scripts SQL reais, simulando a gestão de uma barbearia.
 
 ---
 
