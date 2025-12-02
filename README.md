@@ -28,7 +28,7 @@ O sistema foi projetado para garantir integridade referencial, uso correto de ch
 
 O DER abaixo representa as entidades, atributos, chaves primárias, estrangeiras e relacionamentos do banco:
 
-> `docs/DER.png`
+> ![Diagrama DER](docs/DER.png) 
 
 O modelo apresenta relacionamentos essenciais como:
 - Cliente **realiza** Agendamento  
